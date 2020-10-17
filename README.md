@@ -1,6 +1,6 @@
-# Comp_398
+# Comp_215
 
-Projects from my Systems and Multiprogramming class
+Projects from my Algorithms class
 
 
 ## Project 1 (Overload Operators C++ String Type)
