@@ -21,25 +21,13 @@ Esteban_A2_main.cpp   -> Main file to play the slot machine
 </pre>
 
 
-## Project 3 ()
+## Project 5 (AVL Tree)
 
 <pre>
 </pre>
 
 
-## Project 4 ()
-
-<pre>
-</pre>
-
-
-## Project 5 ()
-
-<pre>
-</pre>
-
-
-## Project 6 ()
+## Project 6 (Priority Queue in the from of a Heap)
 
 <pre>
 </pre>
