@@ -19,15 +19,3 @@ Esteban_A2.h          -> Header file containg the necessary classes and methods 
 Esteban_A2.cpp        -> File containing the implementation of the necessary classes and methods 
 Esteban_A2_main.cpp   -> Main file to play the slot machine
 </pre>
-
-
-## Project 5 (AVL Tree)
-
-<pre>
-</pre>
-
-
-## Project 6 (Priority Queue in the from of a Heap)
-
-<pre>
-</pre>
